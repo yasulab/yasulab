@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋😆
 
-- :japan: [YassLab (株)](https://yasslab.jp/) 代表取締役 
-- :yin_yang: [(一社) CoderDojo Japan](https://coderdojo.jp/) 代表理事
-- :mount_fuji: [未踏ジュニア PM](https://jr.mitou.org/) (メンター)
+- :japan: [YassLab Inc.](https://yasslab.jp/) CEO - Run and maintain **2,100+ pages**** materials to support product development.
+- :yin_yang: [CoderDojo Japan Association](https://coderdojo.jp/) Executive Director - **215+** free programming clubs for young people
+- :mount_fuji: [Mitou Junior](https://jr.mitou.org/english) Co-founder/Mentor - Government-backed [MITOU program](https://www.ipa.go.jp/english/about/about_2_3.html) for U-17 Creators
 
-[Railsチュートリアル](https://railstutorial.jp/)や[Railsガイド](https://railsguides.jp/)、[coderdojo.jp](https://coderdojo.jp/) や [jr.mitou.org](https://jr.mitou.org/) トを日々開発しています！ 🛠💨✨
+[Railsチュートリアル](https://railstutorial.jp/)や[Railsガイド](https://railsguides.jp/)、[CoderDojo Japan](https://coderdojo.jp/) や[未踏ジュニア](https://jr.mitou.org/)などのプロジェクトを毎日ちょっとずつ進めてます！ 🛠💨✨
+
