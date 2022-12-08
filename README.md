@@ -7,3 +7,5 @@ I am Yohei (sounds like 'Yo-hey' / jóu-héi), contributing to the following p
 - :mountain: [Mitou Junior](https://jr.mitou.org/english) Co-founder/Mentor - Government-backed **[MITOU program](https://www.ipa.go.jp/english/about/about_2_3.html)** for U-17 creators.
 
 [Railsチュートリアル](https://railstutorial.jp/)や[Railsガイド](https://railsguides.jp/)、[CoderDojo Japan](https://coderdojo.jp/)や[未踏ジュニア](https://jr.mitou.org/)などに日々貢献しています! 🛠💨✨
+
+:octocat: @YassLab | @coderdojo-japan | @mitou | @remote-jp
