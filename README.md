@@ -8,4 +8,4 @@ I am Yohei (sounds like 'Yo-hey' / jóu-héi), contributing to the following p
 
 [Railsチュートリアル](https://railstutorial.jp/)や[Railsガイド](https://railsguides.jp/)、[CoderDojo Japan](https://coderdojo.jp/)や[未踏ジュニア](https://jr.mitou.org/)などに日々貢献しています! 🛠💨✨
 
-:octocat: [@YassLab](https://github.com/yasslab) | [@coderdojo-japan](https://github.com/coderdojo-japan) | [@Mitou](https://github.com/mitou) | [@remote-jp](https://github.com/remote-jp) | @ruby-hacking-guide
+:octocat: [@YassLab](https://github.com/yasslab) | [@coderdojo-japan](https://github.com/coderdojo-japan) | [@Mitou](https://github.com/mitou) | [@remote-jp](https://github.com/remote-jp) | [@ruby-hacking-guide](https://github.com/ruby-hacking-guide)
