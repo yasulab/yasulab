@@ -1,6 +1,6 @@
 ### Hi there 👋😆 
 
-I am Yohei (sounds like 'Yo-hey' / jóu-héi), contributing to the following projects in Japan!
+I am Yohei (sounds like 'Yo-hey'), contributing to the following projects in Japan!
 
 - :gem: [YassLab Inc.](https://yasslab.jp/) CEO - Create **2,400+ pages tech docs** to learn product development.
 - :yin_yang: [CoderDojo Japan](https://coderdojo.jp/) Executive Director - **215+ non-profit programming clubs** in Japan.
