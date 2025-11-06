@@ -2,7 +2,7 @@
 
 I am Yohei, pronounced `Yo-hey`, contributing to the following projects in Japan!
 
-- :gem: [YassLab Inc.](https://yasslab.jp/) CEO - Create **2,400+ pages tech docs** to learn product development.
+- :gem: [YassLab Inc.](https://yasslab.jp/) CEO - Create **2,800+ pages tech docs** to learn product development.
 - :yin_yang: [CoderDojo Japan](https://coderdojo.jp/english) Executive Director - **200+ non-profit programming clubs** in Japan.
 - :mountain: [MITOU Junior](https://jr.mitou.org/english) Co-founder/Mentor - Government-backed **[MITOU program](https://www.ipa.go.jp/en/about/it-talents/mitou.html)** for U-17 creators.
 
